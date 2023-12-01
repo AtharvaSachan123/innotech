@@ -10,8 +10,8 @@ const Register = () => {
               Register Now
             </h2>
             <span className="font-Roboto lg:text-lg">
-              We will update the ticket link here as soon as we have finalized
-              the event details.
+              We will update the  link here as soon as we have finalized
+              the  details.
             </span>
           </div>
         </div>
